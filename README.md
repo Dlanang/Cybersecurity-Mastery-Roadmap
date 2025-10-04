@@ -916,6 +916,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
 - [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - Post-exploitation tool
 - [mimikatz](https://github.com/gentilkiwi/mimikatz) - Windows credential dumping
 - [RainbowCrack](http://project-rainbowcrack.com/) - Rainbow table implementation
+- [Passlord](https://github.com/navnee1h/passlord/) - Profile-based wordlist generator
 
 ### Forensics & Incident Response
 
